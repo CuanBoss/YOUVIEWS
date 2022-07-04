@@ -1,5 +1,7 @@
 # YOUVIEWS
-Auto View Youtube Free
+Auto View Youtube Free<br/>
+Gunakan script ini dengan bijak<br/>
+Script berjalan normal<br/>
 
 
 apt update && apt upgrade<br/>
