@@ -7,6 +7,7 @@ Script berjalan normal<br/>
 
 apt update && apt upgrade<br/>
 pkg install php<br/>
+pkg install git<br/>
 git clone https://github.com/CuanBoss/YOUVIEWS<br/>
 cd YOUVIEWS<br/>
 php youviews.php
