@@ -3,7 +3,7 @@ Auto View Youtube Free<br/>
 Gunakan script ini dengan bijak<br/>
 Script berjalan normal<br/>
 
-<img src="https://github.com/YouViews/YOUVIEWS/blob/main/Screenshot_20220705-174012_Termux.jpg">
+<img src="https://github.com/YouViews/YOUVIEWS/blob/main/20220705_175112.jpg">
 
 apt update && apt upgrade<br/>
 pkg install php<br/>
